@@ -1,0 +1,6 @@
+timestamp_utc,location,class,confidence,feedback_correct
+2025-10-14T12:00:00Z,Pier 1,plástico (PET),0.92,1
+2025-10-14T12:07:00Z,Pier 1,metal (alumínio),0.88,1
+2025-10-14T12:15:00Z,Pier 1,papel,0.74,0
+2025-10-14T12:30:00Z,Pier 1,vidro verde,0.81,1
+2025-10-14T12:48:00Z,Pier 1,plástico (PP),0.69,

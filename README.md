@@ -48,3 +48,16 @@ streamlit run streamlit_app.py
 
 - Place cleaned logs in `data/logs/` (e.g., `waste_history_clean.csv`).
 - Edit `assets/locations.csv` with your pier/berth/channel coordinates to enable the map.
+
+
+## Example Data
+- A sample raw export was added to `exports_inbox/waste_history.csv`.
+- A cleaned example was generated at `data/logs/waste_history_clean_example.csv`.
+
+## Auto-clean Latest Export
+Place your newest `/export` CSV into `exports_inbox/` and run:
+
+```bash
+python scripts/sync_latest_export.py
+```
+This will produce a cleaned file in `data/logs/` ready for the dashboard.

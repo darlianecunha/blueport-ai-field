@@ -1,0 +1,6 @@
+ts_utc,label,confidence,feedback_correct
+2025-10-14T12:00:00Z,plástico (PET),0.92,1
+2025-10-14T12:07:00Z,metal (alumínio),0.88,1
+2025-10-14T12:15:00Z,papel,0.74,0
+2025-10-14T12:30:00Z,vidro verde,0.81,1
+2025-10-14T12:48:00Z,plástico (PP),0.69,
